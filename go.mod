@@ -1,4 +1,4 @@
-module github.com/uija/ebitenui
+module github.com/ebitenui/ebitenui
 
 go 1.23.0
 
